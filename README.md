@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<p> 🔭 I’m currently working on Datacamp an scolarship from data scientist program </p>
+<p> 🔭 I’m currently working on Datacamp an scholarships from data scientist program </p>
 <p> 🌱 I’m currently learning DataScience and machine learning</p>
 <p>👯 I’m looking to collaborate on any project related to Data  </p>
 
