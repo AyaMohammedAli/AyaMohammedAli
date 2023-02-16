@@ -9,6 +9,7 @@
 
 <p> 🔭 I’m currently working on Datacamp an scholarships from data scientist program </p>
 <p> 🌱 I’m currently learning DataScience and machine learning</p>
+<p> 🌱 Now I have recieved one year scholership from ALx studing shell,C,python and backend</p>
 <p>👯 I’m looking to collaborate on any project related to Data  </p>
 
 <p>💬 Ask me about machine learning and data science ,Statistics and propability</p>
